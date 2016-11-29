@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<?php
 <head>
 
     <meta charset="utf-8">
@@ -234,5 +234,5 @@
     <script src="js/new-age.min.js"></script>
 
 </body>
-
+?>
 </html>
